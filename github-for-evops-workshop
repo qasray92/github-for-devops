@@ -1,0 +1,9 @@
+   git init                                                                                                                                                 
+   git status                                                                                                                                               
+   git status                                                                                                                                               
+   history                                                                                                                                                  
+   git add Testing.py                                                                                                                                       
+   git status                                                                                                                                               
+   git commit -m "added new file"                                                                                                                           
+   git status                                                                                                                                               
+                     
